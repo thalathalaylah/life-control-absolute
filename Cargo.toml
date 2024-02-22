@@ -1,0 +1,9 @@
+[workspace]
+
+resolver = "2"
+members = [
+    "life-control-absolute-gui/src-tauri",
+    "task_manager/task_manager_domain",
+    "task_manager/task_manager_infra",
+    "task_manager/task_manager_usecase",
+]
